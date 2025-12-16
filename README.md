@@ -22,5 +22,9 @@ as part of my first-year academic coursework.
 - Improved Python programming skills
 - Experience with event handling and graphics rendering
 
+## Demo Video
+🎮 Watch Gameplay Demo:  
+[Click Here](https://github.com/your-username/repo-name/releases/download/v1.0.0/gameplay-demo.mp4)
+
 ## Author
-Harrish Yesuraj
+Harrish Yesuraj P
