@@ -3,7 +3,7 @@
 
 ## Academic Project (First Year)
 
-This project is a basic 2D game developed using Python and the Pygame library
+This project is a basic 2D game PONG developed using Python and the Pygame library
 as part of my first-year academic coursework.
 
 ## Features
