@@ -24,7 +24,7 @@ as part of my first-year academic coursework.
 
 ## Demo Video
 🎮 Watch Gameplay Demo:  
-[Click Here](https://github.com/your-username/repo-name/releases/download/v1.0.0/gameplay-demo.mp4)
+[Click Here]([https://github.com/your-username/repo-name/releases/download/v1.0.0/gameplay-demo.mp4](https://github.com/harrishyesuraj/python-pygame-game/releases/tag/v1.0.0)
 
 ## Author
 Harrish Yesuraj P
