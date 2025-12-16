@@ -7,7 +7,7 @@ This project is a basic 2D game developed using Python and the Pygame library
 as part of my first-year academic coursework.
 
 ## Features
-- Keyboard-based player movement
+- Click-based player movement
 - Game loop implementation
 - Basic collision detection
 - Score tracking
